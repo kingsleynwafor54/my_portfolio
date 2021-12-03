@@ -1,0 +1,79 @@
+.body{
+    background-color: rgb(245, 239, 231);
+    border-top: 0%;
+
+}
+#head{
+    display:flex;
+    flex-direction: row;
+    text-decoration: none;
+    /* background-color: aqua; */
+
+    color: rgb(88, 71, 110);
+   
+    
+}
+li{
+    text-decoration: none;
+    flex-direction: row;
+}
+
+#nav{
+    text-align: right;
+}
+#chest{
+    display: flex;
+}
+#fson{
+    flex-direction: row;
+    width: 100%;
+    float: left;
+}
+#sson{
+    flex-direction:row;
+    offset-distance: 20px;
+}
+#nav{
+    text-align: right;
+    bottom: 50%;;
+    
+}
+.linker{
+    margin-left: 30px;
+}
+#space1{
+    width: 100%;
+  float: left;
+}
+img {
+    border-radius: 50%;
+  }
+  #skills{
+      display: flex;
+      background-color: rgb(187, 69, 14);
+      font-size: 20px;
+      color:rgb(152, 187, 24);
+  }
+  #BackEnd{
+      flex-direction: row;
+      width: 100%;
+  float: left;
+  }
+  body{
+      background-color: rgb(245, 234, 234);
+  }
+  .fson{
+      background-color: rgb(18, 4, 37);
+      color: whitesmoke;
+      font-size: 30px;
+  }
+  .sson{
+    background-color: rgb(18, 4, 37);
+    color: whitesmoke;
+    font-size: 30px;
+  }
+  
+  
+/* h1{
+    background-color: blueviolet;
+} */
